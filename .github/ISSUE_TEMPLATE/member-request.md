@@ -1,5 +1,5 @@
 ---
-name: member-request
+name: diventare socio / become a member
 about: Template for requests to become a member.
 title: Ciao! Ledger Milazzo
 labels: ''
