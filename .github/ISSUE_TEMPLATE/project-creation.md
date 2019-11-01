@@ -1,5 +1,5 @@
 ---
-name: project-creation
+name: Request project creation / Request project creation
 about: Template to request the creation of a new project.
 title: Project setup request.
 labels: ''
