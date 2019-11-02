@@ -23,7 +23,7 @@ If one of the projects gains the support from the Milazzo community in the form 
 
 ### Open Government
 
-If you are from Milazzo we welcome you to join this group by creating an issue with [this link](https://github.com/ledger-milazzo/org/issues/new?assignees=&labels=&template=member-request.md&title=Ciao%21+Ledger+Milazzo).
+If you are from Milazzo we welcome you to join this group by creating an issue with [this link](https://github.com/ledger-milazzo/org/issues/new?assignees=&labels=&template=diventare-socio---become-a-member.md&title=Ciao%21+Ledger+Milazzo).
 
 This organization is governed by the members in the _"Consiglio"_ group. The job of this group is to resolve any conflicts and be able to help if some taks can not be done by a member. In order to be part of _"Consiglio"_ you need to be recommended by two other _Consiglio_ members.
 
