@@ -25,7 +25,8 @@ If one of the projects gains the support from the Milazzo community in the form 
 
 If you are from Milazzo we welcome you to join this group by creating an issue with [this link](https://github.com/ledger-milazzo/org/issues/new?assignees=&labels=&template=diventare-socio---become-a-member.md&title=Ciao%21+Ledger+Milazzo).
 
+This group is designed to put the most power in the hands of Milazzo members that would like to join. This way the ledger teams can focus on their projects as much as possible.
+
 This organization is governed by the members in the _"Consiglio"_ group. The job of this group is to resolve any conflicts and be able to help if some taks can not be done by a member. In order to be part of _"Consiglio"_ you need to be recommended by two other _Consiglio_ members.
 
 All rules for the organization are all explained here, but this is a living document. If you think something should be changed or added, please [Edit](https://github.com/ledger-milazzo/org/edit/master/README.md) this document and send a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
-
